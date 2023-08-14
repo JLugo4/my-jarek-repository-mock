@@ -1,7 +1,9 @@
-- JAREK LUGO -
-Software Developer
+# - JAREK LUGO -
+## Software Developer
 Lincoln, DE • (302) 393-6683 • Jarek.Lugo96@gmail.com
+
 LinkedIn: /JarekLugo • GitHub: /JLugo4
+
 Hard working and dedicated Software Developer, with over five years’ military service in the U.S. Marine Corps
 Reserve and significant progress towards an Associate of Applied Science in Accounting with coursework in
 Mathematical Quantitative Reasoning and Statistics, Accounting, Business, and Economics; detail-oriented,
