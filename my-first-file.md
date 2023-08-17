@@ -1,8 +1,8 @@
 # - JAREK LUGO -
 ## Software Developer
-Lincoln, DE • (302) 393-6683 • Jarek.Lugo96@gmail.com
+### Lincoln, DE • (302) 393-6683 • Jarek.Lugo96@gmail.com
 
-LinkedIn: /JarekLugo • GitHub: /JLugo4
+## LinkedIn: /JarekLugo • GitHub: /JLugo4
 
 Hard working and dedicated Software Developer, with over five years’ military service in the U.S. Marine Corps
 Reserve and significant progress towards an Associate of Applied Science in Accounting with coursework in
@@ -10,16 +10,18 @@ Mathematical Quantitative Reasoning and Statistics, Accounting, Business, and Ec
 customer-focused, team player eager to apply technical skills in Java, SQL, and Spring Boot using innovative
 approaches to solving complex business problems.
 TECHNICAL SKILLS
-● Java
-● JavaScript
-● Spring Boot
-● JSON
-● Test Driven Development (TDD)
-● Agile
-● SQL, MySQL ● React, Angular ● GitHub
-PROFESSIONAL EXPERIENCE
-Zip Code Wilmington | Wilmington, DE Feb 2023 – May 2023
-Software Developer in Training
+* Java
+* JavaScript
+* Spring Boot
+* JSON
+* Test Driven Development (TDD)
+* Agile
+* SQL, MySQL
+* React, Angular 
+* GitHub
+# PROFESSIONAL EXPERIENCE
+## Zip Code Wilmington | Wilmington, DE Feb 2023 – May 2023
+### Software Developer in Training
 Admitted into Zip Code Wilmington’s highly competitive software development program accepting less than
 10% of applicants; completed over 1000 hours of software development projects in an immersive, full-stack
 training program using Agile and Scrum methodologies and test-driven development; gained experience with
@@ -32,18 +34,18 @@ Stowells-Farmer-Froilan Link ]
 ► Casino App: Working in a team of four, collaborated to develop a casino app that hosted six games and
 featured multiple casino games; utilized Core Java and Agile Methodologies; personally developed the
 Rablon game and the deck of cards [ Casino Link ]
-U.S. Marine Corps Reserves | Wilmington, DE Aug 2018 – Present
-Bulk Fuel Specialist
+## U.S. Marine Corps Reserves | Wilmington, DE Aug 2018 – Present
+### Bulk Fuel Specialist
 ► U.S. Marine Corps Corporal (E-4) assigned to install, operate, maintain, and repair fuel handling units
 and equipment as well as test petroleum products to evaluate the quality used in military vehicles
 ► Awarded Meritorious Mast for excellent performance; serving as head of the security detail, conducted
 a comprehensive training session on defensive position preperation for all participating U.S. Marine
 Reservists while also assisting with the construction of fuel distribution systems leading up to
 dispensing sixity thousand gallons throughout the week
-JAREK LUGO, pg. 2
-Lincoln, DE • (302) 393-6683 • Jarek.Lugo96@gmail.com
-Bayline Construction | Georgetown, DE May 2022 – Feb 2023
-Groundsman
+### JAREK LUGO, pg. 2
+### Lincoln, DE • (302) 393-6683 • Jarek.Lugo96@gmail.com
+## Bayline Construction | Georgetown, DE May 2022 – Feb 2023
+### Groundsman
 ► Properly and safely climbed telephone transmission and distribution poles to perform maintenance
 which is a difficult and dangerous skill to learn and execute maintenance at 40-60 feet above ground;
 expertly prepared and maintained line trucks for transportation; proficient excavation to install poles
